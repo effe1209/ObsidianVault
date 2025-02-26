@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "1️⃣",
       "LiPresentation",
       "LiBookType",
       "LiBookOpenText",
@@ -33,6 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Tesi": "LiBookType",
-  "Tesi/Presentazione.md": "LiPresentation"
+  "Tesi": {
+    "iconName": "LiBookType",
+    "iconColor": "#d09595"
+  },
+  "Tesi/Presentazione.md": "LiPresentation",
+  "Magistrale/MachineLearning/Primo Compitino.md": "1️⃣"
 }

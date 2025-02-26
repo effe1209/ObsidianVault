@@ -1,4 +1,7 @@
 {
   "attachmentFolderPath": "/Immagini",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

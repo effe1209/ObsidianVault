@@ -201,7 +201,3 @@ Non possiamo affermare le stesse conclusioni per ROCKAD, che durante i test ha d
 ROCKAD rimane comunque consigliato nell’utilizzo con dati non etichettati.
 
 ---
-## 11.1	ciao
-### 11.1.1	cdpkvd
-#### 11.1.1.1	sdvd
-
