@@ -35,8 +35,8 @@ If your plugin does not need CSS, delete this file.
 	--ffs-folder-hover-background-color: #2e2d2c;
 	--ffs-files-count-color: #89898a;
 	--ffs-folder-toggle-icon-color: #37caca;
-	--ffs-folder-focused-color: #41304bde;
-	--ffs-focused-folder-background-color: #a59982;
+	--ffs-folder-focused-color: #c09fb9;
+	--ffs-focused-folder-background-color: #4b3d48;
 	--ffs-actions-background-color: #2e2d2c;
 	--ffs-actions-icon-color: #a59982;
 	--ffs-file-content-preview-color: #9b9d9f;

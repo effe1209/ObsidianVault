@@ -237,9 +237,6 @@ Facciamo il training sull'insiemi \(D\backslash D_i\) e lo testiamo su \(D_i\
 
 > **ROC Curve**
 
-![](api/attachments/8d00tEUoAFmh/image/image.png)
 
-- > La diagonale è il peggior classificatore possibile perché corrisponde ad avere il 50% di possibilità che il risultato sia un TP o un FP
-- > La miglior curva ha un alta Area sotto al grafico - **AUC** così da avere un alto TP-Rate e un basso FP-Rate
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Primo+Compitino.md&fileType=undefined&fileExtension=md
+- La diagonale è il peggior classificatore possibile perché corrisponde ad avere il 50% di possibilità che il risultato sia un TP o un FP
+- La miglior curva ha un alta Area sotto al grafico - **AUC** così da avere un alto TP-Rate e un basso FP-Rate

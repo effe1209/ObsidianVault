@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MachineLearning/Teoria/Primo Compitino.md",
+                "file": "Tesi/Presentazione.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Primo Compitino"
+              "title": "Presentazione"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 395.5
   },
   "right": {
     "id": "f56075b20c4f3fdc",
@@ -107,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MachineLearning/Teoria/Primo Compitino.md",
+                "file": "Tesi/Presentazione.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Primo Compitino"
+              "title": "Struttura di Presentazione"
             }
           },
           {
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +219,12 @@
   },
   "active": "696a76fbdd7b12d1",
   "lastOpenFiles": [
+    "MachineLearning/Primo Compitino.md",
+    "Excalidraw/Drawing 2025-02-26 14.51.14.excalidraw.md",
     "Tesi/Presentazione.md",
-    "MachineLearning/Teoria/Primo Compitino.md",
     "Magistrale/MachineLearning/Teoria/Untitled.md",
     "Magistrale/MachineLearning/Primo Compitino.md",
-    "MachineLearning/Teoria",
+    "MachineLearning/Appunti",
     "Tesi/AssegnazionePosti.md",
     "Tesi/Risultati.md",
     "MachineLearning",
