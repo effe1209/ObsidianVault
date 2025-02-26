@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prova sync.md",
+                "file": "vkdovnfdso/Prova sync.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prova sync.md",
+                "file": "vkdovnfdso/Prova sync.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,25 +185,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
+      "switcher:Apri selezione rapida": true,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "publish:Pubblica modifiche": false,
+      "command-palette:Apri riquadro comandi": true,
+      "publish:Pubblica modifiche": true,
       "audio-recorder:Avvia/ferma registrazione": false,
       "markdown-importer:Apri importazione Markdown": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "acdd103f3d5eec8e",
   "lastOpenFiles": [
-    "Prova sync.md",
+    "Immagini/Pasted image 20250226023521.png",
+    "Immagini",
+    "vkdovnfdso",
+    "Excalidraw/Drawing 2025-02-26 02.24.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-26 02.25.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-26 02.25.15.excalidraw.svg",
+    "vkdovnfdso/Prova sync.md",
+    "Excalidraw",
     "Prova.md",
     "Immagini/Pasted image 20250226020217.png",
     "Immagini/Pasted image 20250226020131.png",
-    "Immagini",
     "Benvenuto.md"
   ]
 }
