@@ -3,8 +3,10 @@
   "obsidian-excalidraw-plugin",
   "file-explorer-note-count",
   "symbols-prettifier",
-  "image-converter",
   "number-headings-obsidian",
   "automatic-table-of-contents",
-  "lapel"
+  "lapel",
+  "obsidian-icon-folder",
+  "header-enhancer",
+  "mousewheel-image-zoom"
 ]
