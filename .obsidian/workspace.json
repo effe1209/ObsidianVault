@@ -11,10 +11,15 @@
             "id": "acdd103f3d5eec8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prova sync.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Prova sync"
             }
           }
         ]
@@ -152,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Prova sync.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di Prova sync"
             }
           },
           {
@@ -193,6 +199,7 @@
   },
   "active": "acdd103f3d5eec8e",
   "lastOpenFiles": [
+    "Prova sync.md",
     "Prova.md",
     "Immagini/Pasted image 20250226020217.png",
     "Immagini/Pasted image 20250226020131.png",
